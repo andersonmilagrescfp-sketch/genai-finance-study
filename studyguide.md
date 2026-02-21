@@ -1,35 +1,76 @@
-# Mini Study Guide — Inflation & Real Interest Rates (Practical)
+# Mini Guia de Estudo — Inflação e Juros Reais (Aplicação Prática)
 
-## 1) Core idea (one-liner)
-Real return is what remains after discounting inflation.
+## 1) Ideia central
 
-## 2) Key concepts
-- **Nominal rate:** the “headline” rate.
-- **Inflation:** price level change over time.
-- **Real rate:** purchasing power gain after inflation.
+Retorno real é o ganho efetivo de poder de compra após descontar a inflação.
 
-## 3) The real interest rate formula
-(1 + real) = (1 + nominal) / (1 + inflation)
+---
 
-## 4) Practical examples
-### Example 1 — Investment return
-If an investment yields 12% per year and inflation is 6%:
-Real ≈ (1.12 / 1.06) - 1 ≈ 5.66%
+## 2) Conceitos-chave
 
-### Example 2 — Financing vs investing (intuition)
-A loan at 11% nominal can be “less expensive” if inflation is high and your investments yield higher real returns.
-But you must compare:
-- cost of debt (after taxes/fees)
-- investment return (net of taxes/fees)
-- liquidity and risk
+**Taxa nominal:**  
+É a taxa divulgada, sem ajuste pela inflação.
 
-## 5) Common mistakes
-- Comparing nominal returns with real costs
-- Ignoring fees and taxes
-- Using “average inflation” without context
+**Inflação:**  
+Variação do nível geral de preços ao longo do tempo.
 
-## 6) Quick checklist
-- What is the nominal rate?
-- What is the inflation measure used?
-- Are fees/taxes included?
-- What’s the real result?
+**Taxa real:**  
+É o ganho efetivo de poder de compra após descontar a inflação.
+
+---
+
+## 3) Fórmula da taxa de juros real
+
+\[
+(1 + real) = \frac{(1 + nominal)}{(1 + inflação)}
+\]
+
+Forma aproximada (para taxas menores):
+
+Real ≈ Nominal − Inflação
+
+---
+
+## 4) Exemplos práticos
+
+### Exemplo 1 — Retorno de investimento
+
+Se um investimento rende 12% ao ano e a inflação é 6%:
+
+Real ≈ (1,12 / 1,06) − 1 ≈ 5,66%
+
+Ou seja, o ganho efetivo de poder de compra foi de aproximadamente 5,66%.
+
+---
+
+### Exemplo 2 — Financiamento vs investimento 
+
+Um empréstimo com taxa nominal de 11% pode ser relativamente “menos oneroso” se:
+
+- A inflação estiver elevada
+- Seus investimentos gerarem retorno real superior
+
+Porém, a análise deve considerar:
+
+- Custo efetivo da dívida (após impostos e taxas)
+- Retorno líquido do investimento (após impostos e taxas)
+- Liquidez
+- Risco envolvido
+
+---
+
+## 5) Erros comuns
+
+- Comparar retornos nominais com custos reais
+- Ignorar taxas e impostos
+- Utilizar inflação média sem contexto temporal
+- Não considerar risco e prazo
+
+---
+
+## 6) Checklist rápido para análise
+
+- Qual é a taxa nominal?
+- Qual índice de inflação está sendo utilizado?
+- Taxas e impostos foram considerados?
+- Qual é o retorno real efetivo?
