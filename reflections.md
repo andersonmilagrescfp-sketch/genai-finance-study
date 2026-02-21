@@ -1,13 +1,24 @@
-# Reflections (AI + Finance)
+# Reflexões (IA + Finanças)
 
-## What worked well
-- When prompts asked for numeric examples, answers became clearer and more useful.
-- Requests for citations helped verify claims and avoid hallucinations.
+## O que funcionou bem
 
-## What can go wrong
-- AI may oversimplify or mix indices (IPCA vs IGP-M) without context.
-- It may omit taxes/fees, which changes real-world conclusions.
+- Quando os prompts solicitaram exemplos numéricos, as respostas ficaram mais claras e aplicáveis.
+- Pedir referências e citações ajudou a verificar afirmações e reduzir o risco de imprecisões.
+- Dividir perguntas complexas em etapas menores melhorou a qualidade e profundidade das respostas.
 
-## My rule of use
-AI is used for structure and synthesis, not as a primary source.
-All conclusions must be checked against the curated references.
+---
+
+## O que pode dar errado
+
+- A IA pode simplificar excessivamente conceitos técnicos.
+- Pode misturar índices diferentes (ex.: IPCA vs IGP-M) se a pergunta não for específica.
+- Pode omitir impostos, taxas e custos implícitos, o que altera conclusões práticas.
+- Perguntas enviesadas tendem a gerar respostas direcionadas.
+
+---
+
+## Minha regra de uso
+
+A IA é utilizada como ferramenta de estruturação, síntese e apoio analítico, não como fonte primária.
+
+Todas as conclusões devem ser verificadas nas fontes institucionais selecionadas.
