@@ -1,59 +1,59 @@
-# AI Study Companion – Inflation & Real Interest Rates
+# Companheiro de Estudo com IA – Inflação e Juros Reais
 
-## Overview
-This project was developed as part of the Bradesco GenAI & Data program.
+## Visão Geral
+Este projeto foi desenvolvido como parte do programa Bradesco GenAI & Dados.
 
-## Target audience
-Investors and finance beginners who want a practical understanding of inflation, real interest rates, and how these concepts affect returns in fixed income and everyday decisions (e.g., financing vs investing).
+## Público-alvo
+Investidores iniciantes e interessados em finanças que desejam compreender, de forma prática, a inflação, os juros reais e como esses conceitos impactam retornos em renda fixa e decisões do dia a dia (como amortizar ou investir).
 
-## What you will find here
-- Practical explanations with numeric examples
-- Prompt library for NotebookLM to support active learning and revision
-- A mini study guide and glossary based on curated sources
-- Notes on limitations and common mistakes when using AI for finance
+## O que você encontrará aqui
+- Explicações práticas com exemplos numéricos
+- Biblioteca de prompts para uso no NotebookLM, voltada ao aprendizado ativo
+- Mini guia estruturado e glossário com base em fontes selecionadas
+- Reflexões sobre limitações e riscos do uso de IA em finanças
 
-The objective is to use AI (NotebookLM) as a structured learning tool to explore introductory financial concepts related to inflation and real interest rates.
+O objetivo é utilizar a IA (NotebookLM) como ferramenta estruturada de aprendizado para explorar conceitos financeiros introdutórios relacionados à inflação e aos juros reais.
 
-The project emphasizes:
-- Critical thinking
-- Source curation
-- Prompt experimentation
-- Validation of AI-generated responses
-
----
-
-## Study Objectives
-- Understand the difference between nominal and real interest rates
-- Analyze the impact of inflation on investment returns
-- Structure reusable financial learning prompts
-- Compare AI responses against primary sources
+O projeto enfatiza:
+- Pensamento crítico
+- Curadoria de fontes
+- Experimentação de prompts
+- Validação das respostas geradas por IA
 
 ---
 
-## Methodology
-1. Selection of 3–5 open financial sources  
-2. Upload and analysis using NotebookLM  
-3. Prompt testing and refinement  
-4. Documentation of results and references  
-5. Creation of a structured mini study guide  
+## Objetivos de Estudo
+- Compreender a diferença entre juros nominais e juros reais
+- Analisar o impacto da inflação sobre retornos de investimento
+- Estruturar prompts reutilizáveis para aprendizado financeiro
+- Comparar respostas da IA com fontes institucionais primárias
 
 ---
 
-## Repository Structure
-- `sources/` → curated PDFs and reference materials  
-- `study-guide.md` → structured summaries  
-- `glossary.md` → key financial definitions  
-- `notebooklm-prompts.md` → prompt variations and outputs  
-- `reflections.md` → analysis of AI behavior and limitations  
+## Metodologia
+1. Seleção de 5 fontes financeiras abertas  
+2. Upload e análise no NotebookLM  
+3. Teste e refinamento de prompts  
+4. Documentação de resultados e referências  
+5. Criação de um mini guia estruturado  
 
 ---
 
-## Tools Used
+## Estrutura do Repositório
+- `sources/` → PDFs e materiais de referência selecionados  
+- `studyguide.md` → resumos estruturados  
+- `glossary.md` → definições financeiras essenciais  
+- `notebooklm-prompts.md` → variações de prompts utilizados  
+- `reflections.md` → análise crítica do uso da IA  
+
+---
+
+## Ferramentas Utilizadas
 - NotebookLM  
 - GitHub  
-- Prompt engineering principles  
+- Princípios de engenharia de prompts  
 
 ---
 
-## Author
+## Autor
 Anderson Milagres
