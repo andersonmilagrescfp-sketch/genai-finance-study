@@ -1,86 +1,86 @@
-# NotebookLM Prompt Library — Applied Finance
+# Biblioteca de Prompts — NotebookLM (Finanças Aplicadas)
 
-This document contains structured prompt experiments used to explore inflation and real interest rates in a practical, investor-oriented context.
+Este documento reúne experimentos estruturados de prompts utilizados para explorar inflação e juros reais em um contexto prático e orientado ao investidor.
 
-Each prompt is categorized by purpose.
-
----
-
-## Concept Clarification
-
-### Prompt 1 — Basic Explanation
-Explain the difference between nominal and real interest rates using a simple numerical example.
-
-**Goal:** Ensure conceptual clarity.
+Cada prompt está organizado por objetivo.
 
 ---
 
-### Prompt 2 — With Formula
-Using the provided sources, explain the formula for real interest rate and apply it to a scenario where:
-- Nominal rate = 12%
-- Inflation = 6%
+## Esclarecimento Conceitual
 
-**Goal:** Connect theory with calculation.
+### Prompt 1 — Explicação Básica
+Explique a diferença entre taxa de juros nominal e taxa de juros real utilizando um exemplo numérico simples.
 
----
-
-## Practical Application
-
-### Prompt 3 — Investment Context
-Based on the sources, explain how inflation impacts fixed income investments in Brazil.
-
-**Goal:** Move from theory to real market impact.
+**Objetivo:** Garantir clareza conceitual.
 
 ---
 
-### Prompt 4 — Financing vs Investing
-Create a decision checklist to evaluate whether it is better to amortize a loan at 11% or keep funds invested.
+### Prompt 2 — Com Fórmula
+Com base nas fontes fornecidas, explique a fórmula da taxa de juros real e aplique-a ao seguinte cenário:
+- Taxa nominal = 12%
+- Inflação = 6%
 
-Consider:
-- Inflation
-- Taxes
-- Risk
-- Liquidity
-
-**Goal:** Decision-oriented thinking.
+**Objetivo:** Conectar teoria com cálculo.
 
 ---
 
-## Critical Thinking
+## Aplicação Prática
 
-### Prompt 5 — Common Mistakes
-List common mistakes investors make when comparing nominal returns and real returns. Reference the sources.
+### Prompt 3 — Contexto de Investimentos
+Com base nas fontes, explique como a inflação impacta investimentos em renda fixa no Brasil.
 
-**Goal:** Avoid superficial understanding.
-
----
-
-### Prompt 6 — Index Comparison
-Compare IPCA and IGP-M. Explain why they can diverge and in which situations each is more relevant.
-
-**Goal:** Context awareness.
+**Objetivo:** Sair da teoria e analisar impacto no mercado real.
 
 ---
 
-## AI Evaluation
+### Prompt 4 — Amortizar ou Investir?
+Crie um checklist de decisão para avaliar se é melhor amortizar um financiamento a 11% ou manter os recursos investidos.
 
-### Prompt 7 — Citation Check
-Summarize the key insights about real interest rates and cite the sources used.
+Considere:
+- Inflação
+- Impostos
+- Risco
+- Liquidez
 
-**Goal:** Test AI reliability and referencing.
-
----
-
-### Prompt 8 — Self-Assessment
-Create 5 questions to test understanding of inflation and real interest rates, with answers.
-
-**Goal:** Active learning reinforcement.
+**Objetivo:** Desenvolver raciocínio orientado à decisão.
 
 ---
 
-## Reflection on Prompt Design
+## Pensamento Crítico
 
-- Specific prompts produce more structured responses.
-- Including numbers improves clarity.
-- Asking for citations reduces hallucination risk.
-- Decision-oriented prompts generate more practical outputs.
+### Prompt 5 — Erros Comuns
+Liste erros comuns que investidores cometem ao comparar retornos nominais e retornos reais. Utilize as fontes como referência.
+
+**Objetivo:** Evitar entendimento superficial.
+
+---
+
+### Prompt 6 — Comparação de Índices
+Compare IPCA e IGP-M. Explique por que podem divergir e em quais situações cada um é mais relevante.
+
+**Objetivo:** Desenvolver consciência de contexto.
+
+---
+
+## Avaliação da IA
+
+### Prompt 7 — Verificação de Citações
+Resuma os principais insights sobre juros reais e cite as fontes utilizadas.
+
+**Objetivo:** Testar confiabilidade e uso de referências.
+
+---
+
+### Prompt 8 — Autoavaliação
+Crie 5 perguntas para testar a compreensão sobre inflação e juros reais, incluindo as respostas.
+
+**Objetivo:** Reforço por aprendizagem ativa.
+
+---
+
+## Reflexão sobre o Design dos Prompts
+
+- Prompts específicos geram respostas mais estruturadas.
+- A inclusão de exemplos numéricos aumenta a clareza.
+- Solicitar citações reduz risco de imprecisões.
+- Prompts orientados à decisão produzem respostas mais práticas.
