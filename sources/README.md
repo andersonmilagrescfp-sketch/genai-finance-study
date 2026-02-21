@@ -1,10 +1,11 @@
-# Sources
+# Fontes do Projeto
 
-This folder contains the curated financial sources used for the study.
+Esta pasta contém as fontes financeiras selecionadas para o desenvolvimento do estudo.
 
-All materials uploaded here were selected to support:
-- Conceptual clarity
-- Practical application
-- Reliable reference validation
+Todos os materiais aqui incluídos foram escolhidos para apoiar:
 
-These documents serve as the foundation for the NotebookLM analysis.
+- Clareza conceitual  
+- Aplicação prática  
+- Validação com base em fontes confiáveis  
+
+Esses documentos servem como base para as análises realizadas no NotebookLM.
